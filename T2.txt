@@ -1,2 +1,3 @@
 Hello Git 
 git is DVCS
+commit in git
