@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 branching and merging
+=======
+branching and merging
+>>>>>>> fixed it
