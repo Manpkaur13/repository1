@@ -4,7 +4,6 @@ if(currentBuild.result="Success"){
 echo "Successful Build"
 }
 else
-{
-  echo "Build is failed"
+{echo "Build is failed"
  }
 }
