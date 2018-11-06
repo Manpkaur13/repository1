@@ -1,0 +1,18 @@
+[submodule "Ticket"]
+	path = Ticket
+	url = https://github.com/Manpkaur13/Ticket
+[submodule "compo1"]
+	path = compo1
+	url = https://github.com/Manpkaur13/Ticket
+[submodule "c1"]
+	path = c1
+	url = https://github.com/Manpkaur13/repository1
+[submodule "c2"]
+	path = c2
+	url = https://github.com/Manpkaur13/repository1
+[submodule "c3"]
+	path = c3
+	url = https://github.com/Manpkaur13/repository1
+[submodule "c4"]
+	path = c4
+	url = https://github.com/Manpkaur13/repository1

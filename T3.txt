@@ -1,1 +1,3 @@
-branching and merging
+branching and merging 
+remoting 
+ "Hello Gitlab"
