@@ -1,9 +1,10 @@
 node{
 stage('Test'){
 if(currentBuild.result="Success"){
-echo "Successful Build"
+echo "Build is Successful"
 }
 else
-{echo "Build is failed"
+{
+ echo "Build is failed"
  }
 }
